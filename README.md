@@ -21,15 +21,9 @@ I'm passionate about **Front-End Web Development**, and I love building beautifu
 - 🎨 CSS3 / Tailwind 
 - ☕ Java (basic)
 
+## 📬 Contact with me:
 
-## 💡 About Me
-
-- 🎯 I’m focused on becoming a professional **Front-End Developer**
-- 🌱 I’m currently learning advanced **React**, **UI/UX design**, and **responsive layouts**
-- 💬 I love talking about front-end trends and clean code
-- 🧠 Always curious, always building
-- ⚡ Fun fact: I enjoy turning wireframes into real, working websites!
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somaa04)
 
 
 
