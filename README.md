@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Somaa04!
+# 👋 Hi there, I'm Soma!
 
 Welcome to my GitHub profile!  
 I'm passionate about **Front-End Web Development**, and I love building beautiful, interactive user interfaces using modern web technologies.
