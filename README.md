@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Somaa04!
 
-<!--
-**Somaa04/Somaa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about **Front-End Web Development**, and I love building beautiful, interactive user interfaces using modern web technologies.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Somaa04's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somaa04&show_icons=true&theme=radical)
+
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaa04&layout=compact&langs_count=6&theme=radical)
+
+
+## 🚀 Technologies I Work With
+
+- 🟨 JavaScript (ES6+)
+- ⚛️ React.js
+- 🟧 HTML5
+- 🎨 CSS3 / Tailwind 
+- ☕ Java (basic)
+
+
+## 💡 About Me
+
+- 🎯 I’m focused on becoming a professional **Front-End Developer**
+- 🌱 I’m currently learning advanced **React**, **UI/UX design**, and **responsive layouts**
+- 💬 I love talking about front-end trends and clean code
+- 🧠 Always curious, always building
+- ⚡ Fun fact: I enjoy turning wireframes into real, working websites!
+
+
+
+
