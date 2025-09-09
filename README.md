@@ -12,6 +12,10 @@ I'm passionate about **Front-End Web Development**, and I love building beautifu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somaa04&layout=compact&langs_count=6&theme=radical)
 
+### Extra Languages I’ve Used:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 
 ## 🚀 Technologies I Work With
 
